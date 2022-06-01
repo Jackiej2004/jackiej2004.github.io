@@ -1,0 +1,18 @@
+body{
+    background-image: url("../content/rain.jpeg");
+    color: aliceblue;
+    background-size: 100%;
+}
+h1{
+    background-image: linear-gradient(to left,cadetblue,cornflowerblue,red);
+    -webkit-background-clip: text;
+    color: transparent;
+    text-align: center;
+    font-size: 100px;
+}
+nav{
+    background-image: linear-gradient(to left, lavender,cadetblue,cornflowerblue);
+}
+main{
+    height: 700px;
+}

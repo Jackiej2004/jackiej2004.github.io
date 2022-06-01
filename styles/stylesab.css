@@ -1,0 +1,18 @@
+body{
+    background-image: url("../content/galaxy.jpeg");
+    color: aliceblue;
+    background-size: 100%;
+}
+h1 {
+    background-image: linear-gradient(to left, lightskyblue, dodgerblue, blueviolet);
+    -webkit-background-clip: text;
+    color: transparent;
+    text-align: center;
+    font-size: 100px;
+}
+main{
+    height: 700px;
+}
+nav{
+    background-image: linear-gradient(to left, lightblue,deepskyblue,mediumpurple);
+}
